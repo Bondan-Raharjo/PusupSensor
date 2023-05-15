@@ -58,7 +58,6 @@
     <ManifestCertificateThumbprint>EA2EF8910D20AD4A842067A09AE4849281D5318B</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>WpfApp2_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
